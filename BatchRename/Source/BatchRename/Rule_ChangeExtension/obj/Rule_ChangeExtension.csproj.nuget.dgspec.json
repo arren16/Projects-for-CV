@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_ChangeExtension\\Rule_ChangeExtension.csproj": {}
+  },
+  "projects": {
+    "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj",
+        "projectName": "BatchRename_MainClasses",
+        "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj",
+        "packagesPath": "C:\\Users\\Vector A\\.nuget\\packages\\",
+        "outputPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vector A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\BatchRename_UtilClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\BatchRename_UtilClasses.csproj",
+        "projectName": "BatchRename_UtilClasses",
+        "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\BatchRename_UtilClasses.csproj",
+        "packagesPath": "C:\\Users\\Vector A\\.nuget\\packages\\",
+        "outputPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vector A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj": {
+                "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_ChangeExtension\\Rule_ChangeExtension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_ChangeExtension\\Rule_ChangeExtension.csproj",
+        "projectName": "Rule_ChangeExtension",
+        "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_ChangeExtension\\Rule_ChangeExtension.csproj",
+        "packagesPath": "C:\\Users\\Vector A\\.nuget\\packages\\",
+        "outputPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_ChangeExtension\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vector A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj": {
+                "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_MainClasses\\BatchRename_MainClasses.csproj"
+              },
+              "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\BatchRename_UtilClasses.csproj": {
+                "projectPath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\BatchRename_UtilClasses\\BatchRename_UtilClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

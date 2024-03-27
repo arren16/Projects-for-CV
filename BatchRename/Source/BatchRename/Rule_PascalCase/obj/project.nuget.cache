@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hf2DFoi02d2d8beNTYN0vswnvtZW6Id1Nf3WmF49j3ItWebPo53WciK/HaAzCm6dKJPkPyKAxguu72NZAgOfmA==",
+  "success": true,
+  "projectFilePath": "D:\\Vector A\\0. KHTN\\Nam 4\\HKI\\Kien Truc\\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\\Project\\BatchRename\\20120406\\Source code\\BatchRename\\Rule_PascalCase\\Rule_PascalCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vector A\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\Vector A\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

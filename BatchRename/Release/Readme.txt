@@ -1,0 +1,1 @@
+- Các cách chạy ứng dụng đã được nêu trong file Report.pdf

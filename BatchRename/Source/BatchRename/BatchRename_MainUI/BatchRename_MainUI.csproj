@@ -1,0 +1,120 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>resource\icon\batch-processing-24px.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resource\20120406.jpg" />
+    <None Remove="resource\icon\backspace-16px.png" />
+    <None Remove="resource\icon\batch-processing-24px.ico" />
+    <None Remove="resource\icon\clear-32px.png" />
+    <None Remove="resource\icon\delete-24px.png" />
+    <None Remove="resource\icon\down-arrow-32px.png" />
+    <None Remove="resource\icon\duplicate-16px.png" />
+    <None Remove="resource\icon\duplicate-24px.png" />
+    <None Remove="resource\icon\empty-file-24px.png" />
+    <None Remove="resource\icon\empty-folder-128px-removebg.png" />
+    <None Remove="resource\icon\error-24px.png" />
+    <None Remove="resource\icon\file-16px.png" />
+    <None Remove="resource\icon\flipped-backspace-32px.png" />
+    <None Remove="resource\icon\floppy-disk-128px.png" />
+    <None Remove="resource\icon\folder-16px.png" />
+    <None Remove="resource\icon\folder-24px.png" />
+    <None Remove="resource\icon\more-24px.png" />
+    <None Remove="resource\icon\new-empty-project-128px.png" />
+    <None Remove="resource\icon\new-empty-project-16px.png" />
+    <None Remove="resource\icon\new-empty-project-512px.png" />
+    <None Remove="resource\icon\open-project-128px.png" />
+    <None Remove="resource\icon\play-128px.png" />
+    <None Remove="resource\icon\play-24px.png" />
+    <None Remove="resource\icon\reload-24px.png" />
+    <None Remove="resource\icon\rule-24px.png" />
+    <None Remove="resource\icon\save-file-128px.png" />
+    <None Remove="resource\icon\save-preset-24px.png" />
+    <None Remove="resource\icon\save-project-128px.png" />
+    <None Remove="resource\icon\setting-24px.png" />
+    <None Remove="resource\icon\up-arrow-32px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fluent.Ribbon" Version="9.0.4" />
+    <PackageReference Include="Microsoft.WindowsAPICodePack-Shell" Version="1.1.0" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+    <PackageReference Include="System.Text.Json" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BatchRename_MainClasses\BatchRename_MainClasses.csproj" />
+    <ProjectReference Include="..\BatchRename_UtilClasses\BatchRename_UtilClasses.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resource\20120406.jpg" />
+    <Resource Include="resource\icon\backspace-16px.png" />
+    <Resource Include="resource\icon\batch-processing-24px.ico" />
+    <Resource Include="resource\icon\clear-32px.png" />
+    <Resource Include="resource\icon\delete-24px.png" />
+    <Resource Include="resource\icon\down-arrow-32px.png" />
+    <Resource Include="resource\icon\duplicate-16px.png" />
+    <Resource Include="resource\icon\duplicate-24px.png" />
+    <Resource Include="resource\icon\empty-file-24px.png" />
+    <Resource Include="resource\icon\error-24px.png" />
+    <Resource Include="resource\icon\flipped-backspace-32px.png" />
+    <Resource Include="resource\icon\folder-24px.png" />
+    <Resource Include="resource\icon\more-24px.png" />
+    <Resource Include="resource\icon\play-128px.png" />
+    <Resource Include="resource\icon\play-24px.png" />
+    <Resource Include="resource\icon\reload-24px.png" />
+    <Resource Include="resource\icon\rule-24px.png" />
+    <Resource Include="resource\icon\save-preset-24px.png" />
+    <Resource Include="resource\icon\save-project-128px.png" />
+    <Resource Include="resource\icon\empty-folder-128px-removebg.png" />
+    <Resource Include="resource\icon\file-16px.png" />
+    <Resource Include="resource\icon\floppy-disk-128px.png" />
+    <Resource Include="resource\icon\folder-16px.png" />
+    <Resource Include="resource\icon\new-empty-project-128px.png" />
+    <Resource Include="resource\icon\new-empty-project-16px.png" />
+    <Resource Include="resource\icon\new-empty-project-512px.png" />
+    <Resource Include="resource\icon\open-project-128px.png" />
+    <Resource Include="resource\icon\save-file-128px.png" />
+    <Resource Include="resource\icon\setting-24px.png" />
+    <Resource Include="resource\icon\up-arrow-32px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="library\Rule_AddCounterToTheEnd.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_AddingPrefix.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_AddingSuffix.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_ChangeExtension.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_GPT.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_MakeAllLowercasedAndNoWhiteSpace.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_PascalCase.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_RemoveBeginningAndEndingSpace.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="library\Rule_ReplaceCharacters.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

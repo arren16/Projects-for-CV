@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Rule_GPT</id>
+    <version>1.0.0</version>
+    <authors>Rule_GPT</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="ae2fe7c6ca1f3cdb309520325dd2c95364939f74" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="BatchRename_MainClasses" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BatchRename_UtilClasses" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\Rule_GPT.dll" target="lib\net6.0\Rule_GPT.dll" />
+  </files>
+</package>

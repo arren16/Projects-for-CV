@@ -1,0 +1,16 @@
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\Rule_GPT.deps.json
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\Rule_GPT.dll
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\Rule_GPT.pdb
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\BatchRename_MainClasses.dll
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\bin\Release\net6.0\BatchRename_MainClasses.pdb
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.csproj.AssemblyReference.cache
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.AssemblyInfoInputs.cache
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.AssemblyInfo.cs
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.csproj.CoreCompileInputs.cache
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.sourcelink.json
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.csproj.CopyComplete
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.dll
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\refint\Rule_GPT.dll
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\Rule_GPT.pdb
+D:\Vector A\0. KHTN\Nam 4\HKI\Kien Truc\gitnotes-HCMUS-CSC13106-Kien-truc-phan-mem\Project\BatchRename\20120406\Source code\BatchRename\Rule_GPT\obj\Release\net6.0\ref\Rule_GPT.dll
