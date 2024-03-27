@@ -1,3 +1,9 @@
+# Projects-for-CV
+
+| Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
+| :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
+| [Hotel Management](../Projects-for-CV/PHP%20-%20Hotel%20Management/) | PHP | A web application that supports Hotel Reservation Staffs in room booking, checkin and checkout processes. | 5 | Backend Architect, Backend Developer, Team Manager. | PHP, 3-layer Model, OOP, XAMPP, ngrok, JSON based API, and MySQL. | Knowledge of 3-layer model and API versioning | About 1 month | 01/2023 |
+
 - Môn: Nhập môn Công nghệ Phần mềm 
 - Lớp: 20_4
 - Nhóm: nhóm 09

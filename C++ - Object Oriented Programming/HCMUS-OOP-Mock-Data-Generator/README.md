@@ -1,5 +1,12 @@
 # HCMUS-OOP-Mock-Data-Generator
 
+# Projects-for-CV
+
+| Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
+| :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
+| [HCMUS-OOP-Mock-Data-Generator](../Projects-for-CV/C++%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Mock-Data-Generator/) | C++ | A student information (MOCK Data) generator. | 1 | Developer. | C++, OOP, Converter Pattern, randomization. | Knowledge of how randomization in computers works. | About 2 weeks. | 04/2022 |
+
+
 20120406 - Phạm Quốc Vương
 
 Video DEMO (Youtube Link - Bật phụ đề khi xem): https://youtu.be/KfGTgLdar-M

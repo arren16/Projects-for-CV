@@ -1,5 +1,12 @@
 # HCMUS-OOP-Project-Emloyee-Payment
 
+# Projects-for-CV
+
+| Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
+| :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
+| [HCMUS-OOP-Project-Emloyee-Payment](../Projects-for-CV/C++%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Project-Emloyee-Payment/) | C++ | An OOP-techniques-demonstration project by building a multiple-employee-types calculator. | 1 | Developer. | OOP techniques, such as: Inheritance, Polymorphism, Encapsulation, Abstraction, and Design Patterns (Factory, Prototype, Singleton). | Knowledge of OOP. | About 1 week. | 04/2022 |
+
+
 20120406 - Phạm Quốc Vương
 
 Video DEMO (Youtube Link - Bật phụ đề khi xem): https://youtu.be/AjiMspV5HRA
