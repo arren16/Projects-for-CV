@@ -1,0 +1,722 @@
+===Database dulich_web
+
+== Table structure for table district
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(10)|No|
+|_name|varchar(100)|Yes|NULL
+|_prefix|varchar(20)|Yes|NULL
+|_province_id|int(10)|Yes|NULL
+== Dumping data for table district
+
+|1|Binh Chanh|Huyen|1
+|2|Binh Tan|Quan|1
+|3|Binh Thanh|Quan|1
+|4|Can Gio|Huyen|1
+|5|Cu Chi|Huyen|1
+|6|Go Vap|Quan|1
+|7|Hoc Mon|Huyen|1
+|8|Nha Be|Huyen|1
+|9|Phu Nhuan|Quan|1
+|10|Quan 1| |1
+|11|Quan 10| |1
+|12|Quan 11| |1
+|13|Quan 12| |1
+|14|Quan 2| |1
+|15|Quan 3| |1
+|16|Quan 4| |1
+|17|Quan 5| |1
+|18|Quan 6| |1
+|19|Quan 7| |1
+|20|Quan 8| |1
+|21|Quan 9| |1
+|22|Tan Binh|Quan|1
+|23|Tan Phu|Quan|1
+|24|Thu Duc|Quan|1
+|25|Ba Dinh|Quan|2
+|26|Ba Vi|Huyen|2
+|27|Bac Tu Liem|Quan|2
+|28|Cau Giay|Quan|2
+|29|Chuong My|Huyen|2
+|30|Dan Phuong|Huyen|2
+|31|Dong Anh|Huyen|2
+|32|Dong Da|Quan|2
+|33|Gia Lam|Huyen|2
+|34|Ha Dong|Quan|2
+|35|Hai Ba Trung|Quan|2
+|36|Hoai Duc|Huyen|2
+|37|Hoan Kiem|Quan|2
+|38|Hoang Mai|Quan|2
+|39|Long Bien|Quan|2
+|40|Me Linh|Huyen|2
+|41|My Duc|Huyen|2
+|42|Nam Tu Liem|Quan|2
+|43|Phu Xuyen|Huyen|2
+|44|Phuc Tho|Huyen|2
+|45|Quoc Oai|Huyen|2
+|46|Soc Son|Huyen|2
+|47|Son Tay|Thi xa|2
+|48|Tay Ho|Quan|2
+|49|Thach That|Huyen|2
+|50|Thanh Oai|Huyen|2
+|51|Thanh Tri|Huyen|2
+|52|Thanh Xuan|Quan|2
+|53|Thuong Tin|Huyen|2
+|54|Ung Hoa|Huyen|2
+|55|Cam Le|Quan|3
+|56|Hai Chau|Quan|3
+|57|Hoa Vang|Huyen|3
+|58|Hoang Sa|Huyen|3
+|59|Lien Chieu|Quan|3
+|60|Ngu Hanh Son|Quan|3
+|61|Son Tra|Quan|3
+|62|Thanh Khe|Quan|3
+|63|Bau Bang|Huyen|4
+|64|Ben Cat|Thi xa|4
+|65|Dau Tieng|Huyen|4
+|66|Di An|Thi xa|4
+|67|Phu Giao|Huyen|4
+|68|Tan Uyen|Huyen|4
+|69|Thu Dau Mot|Thi xa|4
+|70|Thuan An|Huyen|4
+|71|Bien Hoa|Thanh pho|5
+|72|Cam My|Huyen|5
+|73|Dinh Quan|Huyen|5
+|74|Long Khanh|Thi xa|5
+|75|Long Thanh|Huyen|5
+|76|Nhon Trach|Huyen|5
+|77|Tan Phu|Quan|5
+|78|Thong Nhat|Huyen|5
+|79|Trang Bom|Huyen|5
+|80|Vinh Cuu|Huyen|5
+|81|Xuan Loc|Huyen|5
+|82|Cam Lam|Huyen|6
+|83|Cam Ranh|Thanh pho|6
+|84|Dien Khanh|Huyen|6
+|85|Khanh Son|Huyen|6
+|86|Khanh Vinh|Huyen|6
+|87|Nha Trang|Thanh pho|6
+|88|Ninh Hoa|Thi xa|6
+|89|Truong Sa|Huyen|6
+|90|Van Ninh|Huyen|6
+|91|An Duong|Huyen|7
+|92|An Lao|Huyen|7
+|93|Bach Long Vi|Huyen|7
+|94|Cat Hai|Huyen|7
+|95|Do Son|Quan|7
+|96|Duong Kinh|Quan|7
+|97|Hai An|Quan|7
+|98|Hong Bang|Quan|7
+|99|Kien An|Quan|7
+|100|Kien Thuy|Huyen|7
+|101|Le Chan|Quan|7
+|102|Ngo Quyen|Quan|7
+|103|Thuy Nguyen|Huyen|7
+|104|Tien Lang|Huyen|7
+|105|Vinh Bao|Huyen|7
+|106|Ben Luc|Huyen|8
+|107|Can Duoc|Huyen|8
+|108|Can Giuoc|Huyen|8
+|109|Chau Thanh|Huyen|8
+|110|Duc Hoa|Huyen|8
+|111|Duc Hue|Huyen|8
+|112|Kien Tuong|Thi xa|8
+|113|Moc Hoa|Huyen|8
+|114|Tan An|Thanh pho|8
+|115|Tan Hung|Huyen|8
+|116|Tan Thanh|Huyen|8
+|117|Tan Tru|Huyen|8
+|118|Thanh Hoa|Huyen|8
+|119|Thu Thua|Huyen|8
+|120|Vinh Hung|Huyen|8
+|121|Bac Tra My|Huyen|9
+|122|Dai Loc|Huyen|9
+|123|Dien Ban|Huyen|9
+|124|Dong Giang|Huyen|9
+|125|Duy Xuyen|Huyen|9
+|126|Hiep Duc|Huyen|9
+|127|Hoi An|Thanh pho|9
+|128|Nam Giang|Huyen|9
+|129|Nam Tra My|Huyen|9
+|130|Nong Son|Huyen|9
+|131|Nui Thanh|Huyen|9
+|132|Phu Ninh|Huyen|9
+|133|Phuoc Son|Huyen|9
+|134|Que Son|Huyen|9
+|135|Tam Ky|Thanh pho|9
+|136|Tay Giang|Huyen|9
+|137|Thang Binh|Huyen|9
+|138|Tien Phuoc|Huyen|9
+|139|Ba Ria|Thi xa|10
+|140|Chau Duc|Huyen|10
+|141|Con Dao|Huyen|10
+|142|Dat Do|Huyen|10
+|143|Long Dien|Huyen|10
+|144|Tan Thanh|Huyen|10
+|145|Vung Tau|Thanh pho|10
+|146|Xuyen Moc|Huyen|10
+|147|Buon Don|Huyen|11
+|148|Buon Ho|Thi xa|11
+|149|Buon Ma Thuot|Thanh pho|11
+|150|Cu Kuin|Huyen|11
+|151|Cu M'gar|Huyen|11
+|152|Ea H'Leo|Huyen|11
+|153|Ea Kar|Huyen|11
+|154|Ea Sup|Huyen|11
+|155|Krong Ana|Huyen|11
+|156|Krong Bong|Huyen|11
+|157|Krong Buk|Huyen|11
+|158|Krong Nang|Huyen|11
+|159|Krong Pac|Huyen|11
+|160|Lak|Huyen|11
+|161|M'Drak|Huyen|11
+|162| Thoi Lai|Huyen|12
+|163|Binh Thuy|Quan|12
+|164|Cai Rang|Quan|12
+|165|Co Do|Huyen|12
+|166|Ninh Kieu|Quan|12
+|167|O Mon|Quan|12
+|168|Phong Dien|Huyen|12
+|169|Thot Not|Quan|12
+|170|Vinh Thanh|Huyen|12
+|171|Bac Binh|Huyen|13
+|172|Dao Phu Quy|Huyen|13
+|173|Duc Linh|Huyen|13
+|174|Ham Tan|Huyen|13
+|175|Ham Thuan Bac|Huyen|13
+|176|Ham Thuan Nam|Huyen|13
+|177|La Gi|Thi xa|13
+|178|Phan Thiet|Thanh pho|13
+|179|Tanh Linh|Huyen|13
+|180|Tuy Phong|Huyen|13
+|181|Bao Lam|Huyen|14
+|182|Bao Loc|Thanh pho|14
+|183|Cat Tien|Huyen|14
+|184|Da Huoai|Huyen|14
+|185|Da Lat|Thanh pho|14
+|186|Da Teh|Huyen|14
+|187|Dam Rong|Huyen|14
+|188|Di Linh|Huyen|14
+|189|Don Duong|Huyen|14
+|190|Duc Trong|Huyen|14
+|191|Lac Duong|Huyen|14
+|192|Lam Ha|Huyen|14
+|193|A Luoi|Huyen|15
+|194|Hue|Thanh pho|15
+|195|Huong Thuy|Thi xa|15
+|196|Huong Tra|Huyen|15
+|197|Nam Dong|Huyen|15
+|198|Phong Dien|Huyen|15
+|199|Phu Loc|Huyen|15
+|200|Phu Vang|Huyen|15
+|201|Quang Dien|Huyen|15
+|202|An Bien|Huyen|16
+|203|An Minh|Huyen|16
+|204|Chau Thanh|Huyen|16
+|205|Giang Thanh|Huyen|16
+|206|Giong Rieng|Huyen|16
+|207|Go Quao|Huyen|16
+|208|Ha Tien|Thi xa|16
+|209|Hon Dat|Huyen|16
+|210|Kien Hai|Huyen|16
+|211|Kien Luong|Huyen|16
+|212|Phu Quoc|Huyen|16
+|213|Rach Gia|Thanh pho|16
+|214|Tan Hiep|Huyen|16
+|215|U minh Thuong|Huyen|16
+|216|Vinh Thuan|Huyen|16
+|217|Bac Ninh|Thanh pho|17
+|218|Gia Binh|Huyen|17
+|219|Luong Tai|Huyen|17
+|220|Que Vo|Huyen|17
+|221|Thuan Thanh|Huyen|17
+|222|Tien Du|Huyen|17
+|223|Tu Son|Thi xa|17
+|224|Yen Phong|Huyen|17
+|225|Ba Che|Huyen|18
+|226|Binh Lieu|Huyen|18
+|227|Cam Pha|Thanh pho|18
+|228|Co To|Huyen|18
+|229|Dam Ha|Huyen|18
+|230|Dong Trieu|Huyen|18
+|231|Ha Long|Thanh pho|18
+|232|Hai Ha|Huyen|18
+|233|Hoanh Bo|Huyen|18
+|234|Mong Cai|Thanh pho|18
+|235|Quang Yen|Huyen|18
+|236|Tien Yen|Huyen|18
+|237|Uong Bi|Thi xa|18
+|238|Van Don|Huyen|18
+|239|Ba Thuoc|Huyen|19
+|240|Bim Son|Thi xa|19
+|241|Cam Thuy|Huyen|19
+|242|Dong Son|Huyen|19
+|243|Ha Trung|Huyen|19
+|244|Hau Loc|Huyen|19
+|245|Hoang Hoa|Huyen|19
+|246|Lang Chanh|Huyen|19
+|247|Muong Lat|Huyen|19
+|248|Nga Son|Huyen|19
+|249|Ngoc Lac|Huyen|19
+|250|Nhu Thanh|Huyen|19
+|251|Nhu Xuan|Huyen|19
+|252|Nong Cong|Huyen|19
+|253|Quan Hoa|Huyen|19
+|254|Quan Son|Huyen|19
+|255|Quang Xuong|Huyen|19
+|256|Sam Son|Thi xa|19
+|257|Thach Thanh|Huyen|19
+|258|Thanh Hoa|Thanh pho|19
+|259|Thieu Hoa|Huyen|19
+|260|Tho Xuan|Huyen|19
+|261|Thuong Xuan|Huyen|19
+|262|Tinh Gia|Huyen|19
+|263|Trieu Son|Huyen|19
+|264|Vinh Loc|Huyen|19
+|265|Yen Dinh|Huyen|19
+|266|Anh Son|Huyen|20
+|267|Con Cuong|Huyen|20
+|268|Cua Lo|Thi xa|20
+|269|Dien Chau|Huyen|20
+|270|Do Luong|Huyen|20
+|271|Hoang Mai|Thi xa|20
+|272|Hung Nguyen|Huyen|20
+|273|Ky Son|Huyen|20
+|274|Nam Dan|Huyen|20
+|275|Nghi Loc|Huyen|20
+|276|Nghia Dan|Huyen|20
+|277|Que Phong|Huyen|20
+|278|Quy Chau|Huyen|20
+|279|Quy Hop|Huyen|20
+|280|Quynh Luu|Huyen|20
+|281|Tan Ky|Huyen|20
+|282|Thai Hoa|Thi xa|20
+|283|Thanh Chuong|Huyen|20
+|284|Tuong Duong|Huyen|20
+|285|Vinh|Thanh pho|20
+|286|Yen Thanh|Huyen|20
+|287|Binh Giang|Huyen|21
+|288|Cam Giang|Huyen|21
+|289|Chi Linh|Thi xa|21
+|290|Gia Loc|Huyen|21
+|291|Hai Duong|Thanh pho|21
+|292|Kim Thanh|Huyen|21
+|293|Kinh Mon|Huyen|21
+|294|Nam Sach|Huyen|21
+|295|Ninh Giang|Huyen|21
+|296|Thanh Ha|Huyen|21
+|297|Thanh Mien|Huyen|21
+|298|Tu Ky|Huyen|21
+|299|An Khe|Thi xa|22
+|300|AYun Pa|Thi xa|22
+|301|Chu Pah|Huyen|22
+|302|Chu Puh|Huyen|22
+|303|Chu Se|Huyen|22
+|304|ChuPRong|Huyen|22
+|305|Dak Doa|Huyen|22
+|306|Dak Po|Huyen|22
+|307|Duc Co|Huyen|22
+|308|Ia Grai|Huyen|22
+|309|Ia Pa|Huyen|22
+|310|KBang|Huyen|22
+|311|Kong Chro|Huyen|22
+|312|Krong Pa|Huyen|22
+|313|Mang Yang|Huyen|22
+|314|Phu Thien|Huyen|22
+|315|Plei Ku|Thanh pho|22
+|316|Binh Long|Thi xa|23
+|317|Bu Dang|Huyen|23
+|318|Bu Dop|Huyen|23
+|319|Bu Gia Map|Huyen|23
+|320|Chon Thanh|Huyen|23
+|321|Dong Phu|Huyen|23
+|322|Dong Xoai|Thi xa|23
+|323|Hon Quan|Huyen|23
+|324|Loc Ninh|Huyen|23
+|325|Phu Rieng|Huyen|23
+|326|Phuoc Long|Thi xa|23
+|327|An Thi|Huyen|24
+|328|Hung Yen|Thanh pho|24
+|329|Khoai Chau|Huyen|24
+|330|Kim Dong|Huyen|24
+|331|My Hao|Huyen|24
+|332|Phu Cu|Huyen|24
+|333|Tien Lu|Huyen|24
+|334|Van Giang|Huyen|24
+|335|Van Lam|Huyen|24
+|336|Yen My|Huyen|24
+|337|An Lao|Huyen|25
+|338|An Nhon|Huyen|25
+|339|Hoai An|Huyen|25
+|340|Hoai Nhon|Huyen|25
+|341|Phu Cat|Huyen|25
+|342|Phu My|Huyen|25
+|343|Quy Nhon|Thanh pho|25
+|344|Tay Son|Huyen|25
+|345|Tuy Phuoc|Huyen|25
+|346|Van Canh|Huyen|25
+|347|Vinh Thanh|Huyen|25
+|348|Cai Be|Huyen|26
+|349|Cai Lay|Thi xa|26
+|350|Chau Thanh|Huyen|26
+|351|Cho Gao|Huyen|26
+|352|Go Cong|Thi xa|26
+|353|Go Cong Dong|Huyen|26
+|354|Go Cong Tay|Huyen|26
+|355|Huyen Cai Lay|Huyen|26
+|356|My Tho|Thanh pho|26
+|357|Tan Phu Dong|Huyen|26
+|358|Tan Phuoc|Huyen|26
+|359|Dong Hung|Huyen|27
+|360|Hung Ha|Huyen|27
+|361|Kien Xuong|Huyen|27
+|362|Quynh Phu|Huyen|27
+|363|Thai Binh|Thanh pho|27
+|364|Thai Thuy|Huyen|27
+|365|Tien Hai|Huyen|27
+|366|Vu Thu|Huyen|27
+|367|Bac Giang|Thanh pho|28
+|368|Hiep Hoa|Huyen|28
+|369|Lang Giang|Huyen|28
+|370|Luc Nam|Huyen|28
+|371|Luc Ngan|Huyen|28
+|372|Son Dong|Huyen|28
+|373|Tan Yen|Huyen|28
+|374|Viet Yen|Huyen|28
+|375|Yen Dung|Huyen|28
+|376|Yen The|Huyen|28
+|377|Cao Phong|Huyen|29
+|378|Da Bac|Huyen|29
+|379|Hoa Binh|Thanh pho|29
+|380|Kim Boi|Huyen|29
+|381|Ky Son|Huyen|29
+|382|Lac Son|Huyen|29
+|383|Lac Thuy|Huyen|29
+|384|Luong Son|Huyen|29
+|385|Mai Chau|Huyen|29
+|386|Tan Lac|Huyen|29
+|387|Yen Thuy|Huyen|29
+|388|An Phu|Huyen|30
+|389|Chau Doc|Thi xa|30
+|390|Chau Phu|Huyen|30
+|391|Chau Thanh|Huyen|30
+|392|Cho Moi|Huyen|30
+|393|Long Xuyen|Thanh pho|30
+|394|Phu Tan|Huyen|30
+|395|Tan Chau|Thi xa|30
+|396|Thoai Son|Huyen|30
+|397|Tinh Bien|Huyen|30
+|398|Tri Ton|Huyen|30
+|399|Binh Xuyen|Huyen|31
+|400|Lap Thach|Huyen|31
+|401|Phuc Yen|Thi xa|31
+|402|Song Lo|Huyen|31
+|403|Tam Dao|Huyen|31
+|404|Tam Duong|Huyen|31
+|405|Vinh Tuong|Huyen|31
+|406|Vinh Yen|Thanh pho|31
+|407|Yen Lac|Huyen|31
+|408|Ben Cau|Huyen|32
+|409|Chau Thanh|Huyen|32
+|410|Duong Minh Chau|Huyen|32
+|411|Go Dau|Huyen|32
+|412|Hoa Thanh|Huyen|32
+|413|Tan Bien|Huyen|32
+|414|Tan Chau|Huyen|32
+|415|Tay Ninh|Thi xa|32
+|416|Trang Bang|Huyen|32
+|417|Dai Tu|Huyen|33
+|418|Dinh Hoa|Huyen|33
+|419|Dong Hy|Huyen|33
+|420|Pho Yen|Huyen|33
+|421|Phu Binh|Huyen|33
+|422|Phu Luong|Huyen|33
+|423|Song Cong|Thi xa|33
+|424|Thai Nguyen|Thanh pho|33
+|425|Vo Nhai|Huyen|33
+|426|Bac Ha|Huyen|34
+|427|Bao Thang|Huyen|34
+|428|Bao Yen|Huyen|34
+|429|Bat Xat|Huyen|34
+|430|Lao Cai|Thanh pho|34
+|431|Muong Khuong|Huyen|34
+|432|Sa Pa|Huyen|34
+|433|Van Ban|Huyen|34
+|434|Xi Ma Cai|Huyen|34
+|435|Giao Thuy|Huyen|35
+|436|Hai Hau|Huyen|35
+|437|My Loc|Huyen|35
+|438|Nam Dinh|Thanh pho|35
+|439|Nam Truc|Huyen|35
+|440|Nghia Hung|Huyen|35
+|441|Truc Ninh|Huyen|35
+|442|Vu Ban|Huyen|35
+|443|Xuan Truong|Huyen|35
+|444|Y Yen|Huyen|35
+|445|Ba To|Huyen|36
+|446|Binh Son|Huyen|36
+|447|Duc Pho|Huyen|36
+|448|Ly Son|Huyen|36
+|449|Minh Long|Huyen|36
+|450|Mo Duc|Huyen|36
+|451|Nghia Hanh|Huyen|36
+|452|Quang Ngai|Thanh pho|36
+|453|Son Ha|Huyen|36
+|454|Son Tay|Huyen|36
+|455|Son Tinh|Huyen|36
+|456|Tay Tra|Huyen|36
+|457|Tra Bong|Huyen|36
+|458|Tu Nghia|Huyen|36
+|459|Ba Tri|Huyen|37
+|460|Ben Tre|Thanh pho|37
+|461|Binh Dai|Huyen|37
+|462|Chau Thanh|Huyen|37
+|463|Cho Lach|Huyen|37
+|464|Giong Trom|Huyen|37
+|465|Mo Cay Bac|Huyen|37
+|466|Mo Cay Nam|Huyen|37
+|467|Thanh Phu|Huyen|37
+|468|Cu Jut|Huyen|38
+|469|Dak GLong|Huyen|38
+|470|Dak Mil|Huyen|38
+|471|Dak R'Lap|Huyen|38
+|472|Dak Song|Huyen|38
+|473|Gia Nghia|Thi xa|38
+|474|Krong No|Huyen|38
+|475|Tuy Duc|Huyen|38
+|476|Ca Mau|Thanh pho|39
+|477|Cai Nuoc|Huyen|39
+|478|Dam Doi|Huyen|39
+|479|Nam Can|Huyen|39
+|480|Ngoc Hien|Huyen|39
+|481|Phu Tan|Huyen|39
+|482|Thoi Binh|Huyen|39
+|483|Tran Van Thoi|Huyen|39
+|484|U Minh|Huyen|39
+|485|Binh Minh|Huyen|40
+|486|Binh Tan|Quan|40
+|487|Long Ho|Huyen|40
+|488|Mang Thit|Huyen|40
+|489|Tam Binh|Huyen|40
+|490|Tra On|Huyen|40
+|491|Vinh Long|Thanh pho|40
+|492|Vung Liem|Huyen|40
+|493|Gia Vien|Huyen|41
+|494|Hoa Lu|Huyen|41
+|495|Kim Son|Huyen|41
+|496|Nho Quan|Huyen|41
+|497|Ninh Binh|Thanh pho|41
+|498|Tam Diep|Thi xa|41
+|499|Yen Khanh|Huyen|41
+|500|Yen Mo|Huyen|41
+|501|Cam Khe|Huyen|42
+|502|Doan Hung|Huyen|42
+|503|Ha Hoa|Huyen|42
+|504|Lam Thao|Huyen|42
+|505|Phu Ninh|Huyen|42
+|506|Phu Tho|Thi xa|42
+|507|Tam Nong|Huyen|42
+|508|Tan Son|Huyen|42
+|509|Thanh Ba|Huyen|42
+|510|Thanh Son|Huyen|42
+|511|Thanh Thuy|Huyen|42
+|512|Viet Tri|Thanh pho|42
+|513|Yen Lap|Huyen|42
+|514|Bac Ai|Huyen|43
+|515|Ninh Hai|Huyen|43
+|516|Ninh Phuoc|Huyen|43
+|517|Ninh Son|Huyen|43
+|518|Phan Rang - Thap Cham|Thanh pho|43
+|519|Thuan Bac|Huyen|43
+|520|Thuan Nam|Huyen|43
+|521|Dong Hoa|Huyen|44
+|522|Dong Xuan|Huyen|44
+|523|Phu Hoa|Huyen|44
+|524|Son Hoa|Huyen|44
+|525|Song Cau|Thi xa|44
+|526|Song Hinh|Huyen|44
+|527|Tay Hoa|Huyen|44
+|528|Tuy An|Huyen|44
+|529|Tuy Hoa|Thanh pho|44
+|530|Binh Luc|Huyen|45
+|531|Duy Tien|Huyen|45
+|532|Kim Bang|Huyen|45
+|533|Ly Nhan|Huyen|45
+|534|Phu Ly|Thanh pho|45
+|535|Thanh Liem|Huyen|45
+|536|Cam Xuyen|Huyen|46
+|537|Can Loc|Huyen|46
+|538|Duc Tho|Huyen|46
+|539|Ha Tinh|Thanh pho|46
+|540|Hong Linh|Thi xa|46
+|541|Huong Khe|Huyen|46
+|542|Huong Son|Huyen|46
+|543|Ky Anh|Huyen|46
+|544|Loc Ha|Huyen|46
+|545|Nghi Xuan|Huyen|46
+|546|Thach Ha|Huyen|46
+|547|Vu Quang|Huyen|46
+|548|Cao Lanh|Thanh pho|47
+|549|Chau Thanh|Huyen|47
+|550|Hong Ngu|Thi xa|47
+|551|Huyen Cao Lanh|Huyen|47
+|552|Huyen Hong Ngu|Huyen|47
+|553|Lai Vung|Huyen|47
+|554|Lap Vo|Huyen|47
+|555|Sa Dec|Thi xa|47
+|556|Tam Nong|Huyen|47
+|557|Tan Hong|Huyen|47
+|558|Thanh Binh|Huyen|47
+|559|Thap Muoi|Huyen|47
+|560|Chau Thanh|Huyen|48
+|561|Cu Lao Dung|Huyen|48
+|562|Ke Sach|Huyen|48
+|563|Long Phu|Huyen|48
+|564|My Tu|Huyen|48
+|565|My Xuyen|Huyen|48
+|566|Nga Nam|Huyen|48
+|567|Soc Trang|Thanh pho|48
+|568|Thanh Tri|Huyen|48
+|569|Tran De|Huyen|48
+|570|Vinh Chau|Huyen|48
+|571|Dak Glei|Huyen|49
+|572|Dak Ha|Huyen|49
+|573|Dak To|Huyen|49
+|574|Ia H'Drai|Huyen|49
+|575|Kon Plong|Huyen|49
+|576|Kon Ray|Huyen|49
+|577|KonTum|Thanh pho|49
+|578|Ngoc Hoi|Huyen|49
+|579|Sa Thay|Huyen|49
+|580|Tu Mo Rong|Huyen|49
+|581|Ba Don|Thi xa|50
+|582|Bo Trach|Huyen|50
+|583|Dong Hoi|Thanh pho|50
+|584|Le Thuy|Huyen|50
+|585|Minh Hoa|Huyen|50
+|586|Quang Ninh|Huyen|50
+|587|Quang Trach|Huyen|50
+|588|Tuyen Hoa|Huyen|50
+|589|Cam Lo|Huyen|51
+|590|Da Krong|Huyen|51
+|591|Dao Con co|Huyen|51
+|592|Dong Ha|Thanh pho|51
+|593|Gio Linh|Huyen|51
+|594|Hai Lang|Huyen|51
+|595|Huong Hoa|Huyen|51
+|596|Quang Tri|Thi xa|51
+|597|Trieu Phong|Huyen|51
+|598|Vinh Linh|Huyen|51
+|599|Cang Long|Huyen|52
+|600|Cau Ke|Huyen|52
+|601|Cau Ngang|Huyen|52
+|602|Chau Thanh|Huyen|52
+|603|Duyen Hai|Huyen|52
+|604|Tieu Can|Huyen|52
+|605|Tra Cu|Huyen|52
+|606|Tra Vinh|Thanh pho|52
+|607|Chau Thanh|Huyen|53
+|608|Chau Thanh A|Huyen|53
+|609|Long My|Huyen|53
+|610|Nga Bay|Thi xa|53
+|611|Phung Hiep|Huyen|53
+|612|Vi Thanh|Thanh pho|53
+|613|Vi Thuy|Huyen|53
+|614|Bac Yen|Huyen|54
+|615|Mai Son|Huyen|54
+|616|Moc Chau|Huyen|54
+|617|Muong La|Huyen|54
+|618|Phu Yen|Huyen|54
+|619|Quynh Nhai|Huyen|54
+|620|Son La|Thanh pho|54
+|621|Song Ma|Huyen|54
+|622|Sop Cop|Huyen|54
+|623|Thuan Chau|Huyen|54
+|624|Van Ho|Huyen|54
+|625|Yen Chau|Huyen|54
+|626|Bac Lieu|Thanh pho|55
+|627|Dong Hai|Huyen|55
+|628|Gia Rai|Huyen|55
+|629|Hoa Binh|Huyen|55
+|630|Hong Dan|Huyen|55
+|631|Phuoc Long|Huyen|55
+|632|Vinh Loi|Huyen|55
+|633|Luc Yen|Huyen|56
+|634|Mu Cang Chai|Huyen|56
+|635|Nghia Lo|Thi xa|56
+|636|Tram Tau|Huyen|56
+|637|Tran Yen|Huyen|56
+|638|Van Chan|Huyen|56
+|639|Van Yen|Huyen|56
+|640|Yen Bai|Thanh pho|56
+|641|Yen Binh|Huyen|56
+|642|Chiem Hoa|Huyen|57
+|643|Ham Yen|Huyen|57
+|644|Lam Binh|Huyen|57
+|645|Na Hang|Huyen|57
+|646|Son Duong|Huyen|57
+|647|Tuyen Quang|Thanh pho|57
+|648|Yen Son|Huyen|57
+|649|Dien Bien|Huyen|58
+|650|Dien Bien Dong|Huyen|58
+|651|Dien Bien Phu|Thanh pho|58
+|652|Muong Ang|Huyen|58
+|653|Muong Cha|Huyen|58
+|654|Muong Lay|Thi xa|58
+|655|Muong Nhe|Huyen|58
+|656|Nam Po|Huyen|58
+|657|Tua Chua|Huyen|58
+|658|Tuan Giao|Huyen|58
+|659|Lai Chau|Thi xa|59
+|660|Muong Te|Huyen|59
+|661|Nam Nhun|Huyen|59
+|662|Phong Tho|Huyen|59
+|663|Sin Ho|Huyen|59
+|664|Tam Duong|Huyen|59
+|665|Tan Uyen|Huyen|59
+|666|Than Uyen|Huyen|59
+|667|Bac Son|Huyen|60
+|668|Binh Gia|Huyen|60
+|669|Cao Loc|Huyen|60
+|670|Chi Lang|Huyen|60
+|671|Dinh Lap|Huyen|60
+|672|Huu Lung|Huyen|60
+|673|Lang Son|Thanh pho|60
+|674|Loc Binh|Huyen|60
+|675|Trang Dinh|Huyen|60
+|676|Van Lang|Huyen|60
+|677|Van Quan|Huyen|60
+|678|Bac Me|Huyen|61
+|679|Bac Quang|Huyen|61
+|680|Dong Van|Huyen|61
+|681|Ha Giang|Thanh pho|61
+|682|Hoang Su Phi|Huyen|61
+|683|Meo Vac|Huyen|61
+|684|Quan Ba|Huyen|61
+|685|Quang Binh|Huyen|61
+|686|Vi Xuyen|Huyen|61
+|687|Xin Man|Huyen|61
+|688|Yen Minh|Huyen|61
+|689|Ba Be|Huyen|62
+|690|Bac Kan|Thi xa|62
+|691|Bach Thong|Huyen|62
+|692|Cho Don|Huyen|62
+|693|Cho Moi|Huyen|62
+|694|Na Ri|Huyen|62
+|695|Ngan Son|Huyen|62
+|696|Pac Nam|Huyen|62
+|697|Bao Lac|Huyen|63
+|698|Bao Lam|Huyen|63
+|699|Cao Bang|Thi xa|63
+|700|Ha Lang|Huyen|63
+|701|Ha Quang|Huyen|63
+|702|Hoa An|Huyen|63
+|703|Nguyen Binh|Huyen|63
+|704|Phuc Hoa|Huyen|63
+|705|Quang Uyen|Huyen|63
+|706|Thach An|Huyen|63
+|707|Thong Nong|Huyen|63
+|708|Tra Linh|Huyen|63
+|709|Trung Khanh|Huyen|63

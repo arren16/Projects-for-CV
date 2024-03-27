@@ -1,0 +1,75 @@
+===Database dulich_web
+
+== Table structure for table province
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(10)|No|
+|_name|varchar(50)|Yes|NULL
+|_code|varchar(20)|Yes|NULL
+== Dumping data for table province
+
+|1|Ho Chi Minh|SG
+|2|Ha Noi|HN
+|3|Da Nang|DDN
+|4|Binh Duong|BD
+|5|Dong Nai|DNA
+|6|Khanh Hoa|KH
+|7|Hai Phong|HP
+|8|Long An|LA
+|9|Quang Nam|QNA
+|10|Ba Ria Vung Tau|VT
+|11|Dak Lak|DDL
+|12|Can Tho|CT
+|13|Binh Thuan  |BTH
+|14|Lam Dong|LDD
+|15|Thua Thien Hue|TTH
+|16|Kien Giang|KG
+|17|Bac Ninh|BN
+|18|Quang Ninh|QNI
+|19|Thanh Hoa|TH
+|20|Nghe An|NA
+|21|Hai Duong|HD
+|22|Gia Lai|GL
+|23|Binh Phuoc|BP
+|24|Hung Yen|HY
+|25|Binh Dinh|BDD
+|26|Tien Giang|TG
+|27|Thai Binh|TB
+|28|Bac Giang|BG
+|29|Hoa Binh|HB
+|30|An Giang|AG
+|31|Vinh Phuc|VP
+|32|Tay Ninh|TNI
+|33|Thai Nguyen|TN
+|34|Lao Cai|LCA
+|35|Nam Dinh|NDD
+|36|Quang Ngai|QNG
+|37|Ben Tre|BTR
+|38|Dak Nong|DNO
+|39|Ca Mau|CM
+|40|Vinh Long|VL
+|41|Ninh Binh|NB
+|42|Phu Tho|PT
+|43|Ninh Thuan|NT
+|44|Phu Yen|PY
+|45|Ha Nam|HNA
+|46|Ha Tinh|HT
+|47|Dong Thap|DDT
+|48|Soc Trang|ST
+|49|Kon Tum|KT
+|50|Quang Binh|QB
+|51|Quang Tri|QT
+|52|Tra Vinh|TV
+|53|Hau Giang|HGI
+|54|Son La|SL
+|55|Bac Lieu|BL
+|56|Yen Bai|YB
+|57|Tuyen Quang|TQ
+|58|Dien Bien|DDB
+|59|Lai Chau|LCH
+|60|Lang Son|LS
+|61|Ha Giang|HG
+|62|Bac Kan|BK
+|63|Cao Bang|CB

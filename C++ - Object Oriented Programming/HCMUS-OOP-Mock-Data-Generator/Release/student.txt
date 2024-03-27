@@ -1,0 +1,45 @@
+Student: 17157170 - Nguyen Minh Song
+    GPA=5.70, Telephone=0370-611-258
+    Email=nmsong@yahoo.com
+    DOB=07/08/1994
+    Address=137A Tinh lo 864, Xa Long Dinh, Huyen Chau Thanh, Tien Giang
+Student: 19125206 - Phan Pham Ap
+    GPA=4.10, Telephone=0985-867-177
+    Email=ppap@hotmail.fr
+    DOB=03/11/2000
+    Address=50U Quoc lo 1A, Xa Phuoc Diem, Huyen Thuan Nam, Ninh Thuan
+Student: 20147416 - Hoang Tran Phi
+    GPA=6.20, Telephone=0931-251-474
+    Email=htphi@gmail.com
+    DOB=17/09/1991
+    Address=43B Quoc lo 21, Xa Truc Noi, Huyen Truc Ninh, Nam Dinh
+Student: 21270737 - Nguyen Vu Duong
+    GPA=2.10, Telephone=0336-274-368
+    Email=nvduong@yahoo.com
+    DOB=03/12/2003
+    Address=70H Le Duan, Xa Gio Phong, Huyen Gio Linh, Quang Tri
+Student: 19217944 - Nguyen My Kiem
+    GPA=5.00, Telephone=0847-010-780
+    Email=nmkiem@gmail.com
+    DOB=03/05/1996
+    Address=37 Hoang Lien, Xa A Mu Sung, Huyen Bat Xat, Lao Cai
+Student: 17200097 - Nguyen Bao Phon
+    GPA=2.40, Telephone=0782-989-920
+    Email=nbphon@gmail.com
+    DOB=09/08/1990
+    Address=97G Quoc Lo 70B, Xa Luong Son, Huyen Yen Lap, Phu Tho
+Student: 17197951 - Nguyen Anh Cung
+    GPA=0.59, Telephone=0365-480-413
+    Email=nacung@hotmail.com
+    DOB=23/10/1997
+    Address=58L Phan Boi Chau, Thi tran Lien Nghia, Huyen Duc Trong, Lam Dong
+Student: 19190018 - Bui Kieu Du
+    GPA=2.30, Telephone=0358-388-197
+    Email=bkdu@yahoo.com.br
+    DOB=17/09/1996
+    Address=63S Vuon Vua Resort & Villas, 316, Xa Dao Xa, Huyen Thanh Thuy, Phu Tho
+Student: 19265067 - Nguyen Bao Ha
+    GPA=1.40, Telephone=0593-945-134
+    Email=nbha@web.de
+    DOB=13/11/1998
+    Address=175G Quoc lo 1A, Xa Xuan Giang, Huyen Nghi Xuan, Ha Tinh
