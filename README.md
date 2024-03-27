@@ -1,6 +1,7 @@
 # Projects-for-CV
 
 | Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
+| :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
 | Batch Rename v1.2 | C# (.NET 6) | A responsive desktop application helping user rename multiple files and folders at once using a chain of pre-defined rules. | 1 | Developer, Designer. | C# WPF (.NET 6); Design Patterns: Singleton, Factory, Prototype, Builder, Converter, Template Class, Delegate & Event, and Dependency Injection (plugin architecture using DLL); Regular Expression. | Knowledge of C# (.NET 6) and WPF UI fundamentals | About 2 weeks | 02/2024 |
 | Performance Testing | Python | Selenium & Locust Integration for web app performance testing. | 4 | Automation Tester, Team Leader. | Python, Selenium (with remote debugging technique), Locust - load testing framework, Delegate & Event pattern. | Knowledge of performance testing, Python, Seleniun and Locust | About 1 month | 11/2023 |
 | Hotel Management | PHP | A web application that supports Hotel Reservation Staffs in room booking, checkin and checkout processes. | 5 | Backend Architect, Backend Developer, Team Manager. | PHP, 3-layer Model, OOP, XAMPP, ngrok, JSON based API, and MySQL. | Knowledge of 3-layer model and API versioning | About 1 month | 01/2023 |
