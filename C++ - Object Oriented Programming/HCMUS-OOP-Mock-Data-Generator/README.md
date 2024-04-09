@@ -4,7 +4,7 @@ Video DEMO (Youtube Link - Bật phụ đề khi xem): https://youtu.be/KfGTgLda
 
 | Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
 | :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
-| [HCMUS-OOP-Mock-Data-Generator](./C++%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Mock-Data-Generator/) | C++ | A student information (MOCK Data) generator. | 1 | Developer. | C++, OOP, Converter Pattern, randomization. | Knowledge of how randomization in computers works. | About 2 weeks. | 04/2022 |
+| [HCMUS-OOP-Mock-Data-Generator](https://github.com/arren16/Projects-for-CV/blob/main/C%2B%2B%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Mock-Data-Generator/) | C++ | A student information (MOCK Data) generator. | 1 | Developer. | C++, OOP, Converter Pattern, randomization. | Knowledge of how randomization in computers works. | About 2 weeks. | 04/2022 |
 
 
 20120406 - Phạm Quốc Vương
