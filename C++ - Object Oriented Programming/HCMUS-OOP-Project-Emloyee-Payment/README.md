@@ -4,7 +4,7 @@ Video DEMO (Youtube Link - Bật phụ đề khi xem): https://youtu.be/AjiMspV5
 
 | Project | Language | Description | Team size | Position | Technical Details | Achievement | Time spent | Ending month |
 | :-- | :-: | :-- | :-: | :-: | :-- | :-- | :-: | :-: |
-| [HCMUS-OOP-Project-Emloyee-Payment](./C++%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Project-Emloyee-Payment/) | C++ | An OOP-techniques-demonstration project by building a multiple-employee-types calculator. | 1 | Developer. | OOP techniques, such as: Inheritance, Polymorphism, Encapsulation, Abstraction, and Design Patterns (Factory, Prototype, Singleton). | Knowledge of OOP. | About 1 week. | 04/2022 |
+| [HCMUS-OOP-Project-Emloyee-Payment](https://github.com/arren16/Projects-for-CV/blob/main/C%2B%2B%20-%20Object%20Oriented%20Programming/HCMUS-OOP-Project-Emloyee-Payment/) | C++ | An OOP-techniques-demonstration project by building a multiple-employee-types calculator. | 1 | Developer. | OOP techniques, such as: Inheritance, Polymorphism, Encapsulation, Abstraction, and Design Patterns (Factory, Prototype, Singleton). | Knowledge of OOP. | About 1 week. | 04/2022 |
 
 
 Mức độ hoàn thành các yêu cầu:
